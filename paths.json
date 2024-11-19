@@ -1,0 +1,19 @@
+{
+    "mappings": [
+      "/content/ue-commerce-demo/:/",
+      "/content/ue-commerce-demo/configuration:/.helix/config.json",
+      "/content/ue-commerce-demo/metadata:/metadata.json",
+      "/content/ue-commerce-demo/configs:/configs.json",
+      "/content/ue-commerce-demo/configs-stage:/configs-stage.json",
+      "/content/ue-commerce-demo/configs-dev:/configs-dev.json",
+      "/content/ue-commerce-demo/redirects:/redirects.json",
+      "/content/ue-commerce-demo/placeholders:/placeholders.json",
+      "/content/ue-commerce-demo/products/recommended-products:/products/recommended-products.json",
+      "/content/ue-commerce-demo/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/citisignal/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/ue-commerce-demo",
+      "/content/dam/citisignal/images/products/"
+    ]
+}

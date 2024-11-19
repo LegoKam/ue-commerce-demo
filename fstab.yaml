@@ -1,0 +1,9 @@
+mountpoints:
+  /:
+    url: "https://author-p53586-e757175.adobeaemcloud.com/bin/franklin.delivery/LegoKam/ue-commerce-demo/main"
+    type: "markup"
+    suffix: ".html"
+
+folders:
+  /products/plan/: /products/plan/default
+  /products/: /products/default
